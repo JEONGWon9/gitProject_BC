@@ -95,8 +95,8 @@
 
 						<li><a href="" onclick="">신상품</a></li>
 						<li class="gbnLine"><a href="" onclick="">베스트</a></li>
-						<li class="gbnLine"><a href="" onclick=""> 더신선정육관</a></li>
-						<li class="gbnLine"><a href="" onclick=""> 이달의맛집</a></li>
+						<li class="gbnLine"><a href="" onclick=""> 상품보기 </a></li>
+					
 						
 						<li class=""><a href="" onclick="">정기배송</a></li>
 
