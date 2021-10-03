@@ -44,7 +44,7 @@
 					<ul>
 
 						<li><a id="head_login_a" href="">로그인</a></li>
-						<li><a id="head_login_b" href="">회원가입</a></li>
+						<li><a id="head_login_b" href="Member.me">회원가입</a></li>
 
 						<li><a href="">고객센터</a></li>						
 					</ul>
