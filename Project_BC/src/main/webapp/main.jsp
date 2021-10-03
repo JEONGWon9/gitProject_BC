@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-	pageEncoding="UTF-8"%>
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -19,6 +19,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 	<header id="headerWrap" class="header-wrap">
 		<!-- header top -->
 		<div class="header-top">
@@ -112,5 +113,6 @@
 		<!-- //gnb -->
 		<!-- 카테고리 [E] -->
 	</header>
+
 </body>
 </html>
