@@ -33,18 +33,12 @@
 							autocomplete="off" data-keyword="이제, 장보기는 더반찬&amp;"
 							data-typing="off"
 							data-keyword-url=" "
-							style="color: rgb(127, 127, 127);">
-						<button type="submit" id="btnSearch" class="btn-search">검색</button>
-						<button type="button" class="btn-clear hidden">지우기</button>
-						
-						<button class="sch_bt" type="button">
-							<em class="ir">검색하기</em>
-						</button>
+							style="color: rgb(127, 127, 127);">					
 					</div>
 				</div>
 				<!-- 검색 영역 [E] -->
 
-				<!-- 2020.07.10 MAIN 수정  -->
+			
 				<div class="util-wrap">
 					<ul>
 
