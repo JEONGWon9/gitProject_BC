@@ -19,7 +19,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<<<<<<< HEAD
+
 	<header id="headerWrap" class="header-wrap">
 		<!-- header top -->
 		<div class="header-top">
@@ -110,8 +110,7 @@
 				</div>
 			</div>			
 		</nav>
-		<!-- //gnb -->
-		<!-- 카테고리 [E] -->
+	
 	</header>
 
 </body>
